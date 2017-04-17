@@ -3,9 +3,9 @@ This directory is all you need to add most twitch emotes to your channel! It doe
 
 ## How to install:
 
-1. Clone or download this repo.![How to clone](/Screenshots/HowToDownload?raw=true)
-2. Open up your Server Settings.![Where is server settings?!](/Screenshots/ServerSettings?raw=true)
-3. In the Emoji tab, click "Upload Emoji".![Where do I upload?!](/Screenshots/EmojiTab?raw=true)
+1. Clone or download this repo.![How to clone](/Screenshots/HowToDownload.png?raw=true)
+2. Open up your Server Settings.![Where is server settings?!](/Screenshots/ServerSettings.png?raw=true)
+3. In the Emoji tab, click "Upload Emoji".![Where do I upload?!](/Screenshots/EmojiTab.png?raw=true)
 4. Upload all the files in this repo (you can select all of them at once).
 5. Enjoy!
 
